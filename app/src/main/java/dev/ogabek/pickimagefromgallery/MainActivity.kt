@@ -14,15 +14,6 @@ import androidx.core.app.ActivityCompat.startActivityForResult
 import androidx.core.app.ActivityCompat.startActivityForResult
 import android.net.Uri
 
-
-
-
-
-
-
-
-
-
 class MainActivity : AppCompatActivity() {
 
     private lateinit var pickPhoto: Button
